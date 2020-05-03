@@ -3,14 +3,10 @@
 ### Data Visualization Final Project
 #### Sammy Stolzenbach, Sejal Dua, and Sook-Hee Evans
 
-Visit site at https://bit.ly/covidmobility
+Visit site at https://sejaldua.com/covid-tracker
 
 ### Pull NYT Data
 Usage:  
 `chmod u+x pull_nyt.sh`  
 `./pull_nyt.sh`  
 
-
-TODO:
-- bar chart legend
-- fix color of donut chart
